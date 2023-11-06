@@ -5,6 +5,7 @@ description:
   <a href="/assets/img/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/saumyagupta-it/">LinkedIn</a> |
   <a href="https://github.com/saumyagupta-it">GitHub</a>
+  </p>
   
   <br>   
   I am working as a Senior Techical Architect at Blue Yonder India Pvt. Ltd.
@@ -12,6 +13,5 @@ description:
   on-prem and cloud versions, along with Call center and web store customization.
   Worked on micro-services to externalize the OMS feature or interact to with OMS. 
   <br>
-  </p>
 
 theme: jekyll-theme-minimal
