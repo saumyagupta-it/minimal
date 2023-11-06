@@ -1,6 +1,18 @@
-title: Saumya Gupta
+title:  <p align="center"> Saumya Gupta
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+<p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/saumyagupta-it">LinkedIn</a> |
+  <a href="https://github.com/saumyagupta-it">GitHub</a>
+  
+  <br>   
+  I am working as a Senior Techical Architect at Blue Yonder India Pvt. Ltd.
+  I am having overall 10.5 years of experience in Sterling Commerce in various 
+  on-prem and cloud versions, along with Call center and web store customization.
+  Worked on micro-services to externalize the OMS feature or interact to with OMS. 
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
