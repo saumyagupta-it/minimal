@@ -1,123 +1,38 @@
----
-layout: default
----
+# Professional Summary
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+●	Working as Senior Technical Architect at Blue Yonder India Pvt. Ltd. </br>
+●	I am having overall 10.5 years of experience in Sterling Commerce 9.1, 9.2.1, 9.3, 9.4,9.5, 10 and 18.3 versions.</br>
+●	Worked on microservices to externalize or interact with OMS application. </br>
+●	Worked on IBM Call Center customization.</br>
+●	Worked on implementation of payment functionalities.</br>
+●	Worked on IBM Web Store to implement Backroom pick and ship from store functionalities.</br>
+●	Designing and implementation of Printer functionalities in Web Store.</br>
+●	Acquire knowledge on retail Create order flow for ISP, BOSS and STH fulfillment types.</br>
+●	Worked on Sterling Business Center for payment, capacity and item setups.</br>
+●	Worked on services, agents, integration severs and MQ.</br>
+●	Customization of Hub-rule, pipelines and transaction.</br>
+●	Implementation of EJB and JAXB web services.</br>
+●	Worked on JSP for customization of OMS console screens.</br>
+●	Creating the new organization, DC and nodes setups.</br>
+●	Customization in Store Order management to implement add-on service and pickup functionalities.</br>
 
-[Link to another page](./another-page.html).
+## Technical and Functional Skills 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<b>Languages Skills:</b> C, C++, JAVA and Groovy </br>
+<b>UI Development Skills:</b> JavaScript, DOJO, JSON, CSS, HTML and Angular JS </br>
+<b>Application Server:</b> WebSphere, Weblogic and Jboss </br>
+<b>Database:</b> Oracle 11G, MySQL </br>
+<b>IDE:</b> Eclipse and Intellij </br>
+<b>Framework:</b> Spring Framework and Sterling Rich Client Platform </br>
+<b>Product:</b> IBM Sterling commerce </br>
+<b>Theoretical Knowledge:</b> Database Management System, Object Oriented Programming & Data Structure </br>
 
 
-### Definition lists can be used with HTML syntax.
+### Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+#### Upgrad Course
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+A sample project is created in local git repo as part of github excercise.
+[![View on GitHub][(https://github.com/saumyagupta-it/Course)]
 
-```
-The final element.
-```
+
